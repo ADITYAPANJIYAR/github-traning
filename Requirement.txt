@@ -1,0 +1,5 @@
+This is a chat application.
+emojis.
+learn Android studio.
+dark mode.
+phone number.
