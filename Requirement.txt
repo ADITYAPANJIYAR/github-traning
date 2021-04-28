@@ -5,4 +5,5 @@ dark mode.
 phone number.
 guitar.
 strings.
+pick.
 
